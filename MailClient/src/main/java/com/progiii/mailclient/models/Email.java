@@ -1,4 +1,4 @@
-package model;
+package com.progiii.mailclient.models;
 
 import java.util.ArrayList;
 import java.util.List;
